@@ -8,7 +8,7 @@ where you can find information about your favourite team  stats, recent matches 
 
 I used CSV data file as datasource which backed this entire application.
 
-## Technolgies Used
+## Technologies Used
 
 ### > Spring Boot
 ### > Spring Data JPA
